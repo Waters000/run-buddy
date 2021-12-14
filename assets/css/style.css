@@ -85,6 +85,10 @@ section {
     background-position: center;
     position: relative;
 }
+body p {
+    color:#39a6b2;
+}
+
 
 .hero-form {
     background-color: #fce138;
