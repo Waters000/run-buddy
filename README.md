@@ -13,4 +13,4 @@ https://waters000.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Chris Waters
 
-## @copy2019 Run Buddy, Inc
+## ©️2019 Run Buddy, Inc
