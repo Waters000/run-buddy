@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://waters000.github.io/run-buddy/
 
 ## Contribution
-Made with &#10084 by Chris Waters
+Made with ❤️ by Chris Waters
